@@ -4,7 +4,7 @@ Project Pitch: The aim of this web application is to provide the user with a sit
 This is a vanilla javascript application. The user should be able to utilize this application to see helpful information on the library, the users account, and book information.
 
 
-![image](https://github.com/AuroraHusong/libraryProject/assets/90487267/3bd18195-6af0-4b54-9792-c35c3b1d1567)
+<img src="https://github.com/AuroraHusong/libraryProject/assets/90487267/3bd18195-6af0-4b54-9792-c35c3b1d1567" alt="Image" width="300">
 
 User Stories: As a user, I should be able to:
 * find a book and its statistics
